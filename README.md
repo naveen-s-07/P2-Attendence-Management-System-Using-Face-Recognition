@@ -30,4 +30,4 @@
 * Database: MySQL or SQLite for securely storing attendance data.
 * IDE: PyCharm or Visual Studio Code for development.
 
-# ENJOY YOUR LEARNING
+# ENJOY YOUR LEARNING 
