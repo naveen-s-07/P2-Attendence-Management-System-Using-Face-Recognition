@@ -1,6 +1,6 @@
 # P2-Attendence-Management-System-Using-Face-Recognition
 
-<h1>Project Overview</h1>
+<h2>Project Overview</h2>
 
 <p1>This project is a smart and efficient attendance management system that uses face recognition technology to automate the tedious process of tracking attendance. It is designed to ensure accuracy, eliminate proxy attendance, and make attendance tracking seamless for educational institutions, workplaces, and events. The system combines cutting-edge machine learning with a user-friendly interface to deliver a hassle-free experience for administrators and users alike.</p1>
 
@@ -20,7 +20,7 @@
 * Database System: Securely stores user profiles and attendance records for quick access.
 * User Interface: A web-based or mobile application for administrators to view and manage attendance data.
 
-<h4>Software Used</h4>
+<h3>Software Used</h3>
 
 * Languages: Python (core logic), HTML, CSS, and JavaScript (for the user interface).
 * Libraries and Frameworks:
@@ -30,4 +30,4 @@
 * Database: MySQL or SQLite for securely storing attendance data.
 * IDE: PyCharm or Visual Studio Code for development.
 
-#ENJOY YOUR LEARNING
+# ENJOY YOUR LEARNING
